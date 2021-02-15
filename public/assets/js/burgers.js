@@ -47,7 +47,7 @@ const changeDevouredBtns = document.querySelectorAll('.change-devoured');
     const addBurgerBtn = document.getElementById('create-form');
   
     if (addBurgerBtn) {
-      createCatBtn.addEventListener('submit', (e) => {
+        addBurgerBtn.addEventListener('submit', (e) => {
         e.preventDefault();
   
         // Grabs the value of the textarea
