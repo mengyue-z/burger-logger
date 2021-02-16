@@ -31,7 +31,7 @@ const changeDevouredBtns = document.querySelectorAll('.change-devoured');
   
             body: JSON.stringify(newDevouredState),
           }).then((response) => {
-
+              console.log(response);
             if (response.ok) {
               console.log(`changed devoured to: ${newDevoured}`);
               location.reload('/');
