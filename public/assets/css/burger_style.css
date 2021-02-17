@@ -6,10 +6,55 @@
 ul {
     list-style-type:decimal;
     text-align: left;  
+    color: #ff5d41;
+    margin:5px;
 }
 
 li {
-    height: 40px;
-    border: 1px solid black;
+    height: 30px;
+    border: 1px solid #ffc1b6;
     margin: 5px;
+    padding-left:5px;
+    background-color: #ffeebb;
+}
+
+#burger-img {
+    display: block;
+    width:20%;
+    height:auto;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+body{
+    background-color: #fdffbc;
+}
+
+h1 {
+    color:#ff9683
+}
+
+button {
+    margin:20px;
+    background-color: #ffc1b6;
+    color: white;
+    border-radius: 20%;
+    border-color:#ffc1b6
+}
+
+h3 {
+    color:#ff9683
+}
+
+#burgerName{
+    border-color: #ffc1b6
+}
+
+.change-devoured{
+    margin: 0 5px;
+    border-radius: 25px;
+}
+
+.devoured {
+    background-color: lightgray;
 }
