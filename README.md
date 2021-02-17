@@ -15,5 +15,5 @@
 ## Links
 
 * Heroku Link: https://protected-lake-23541.herokuapp.com/
-* Portfolio Link:https://mengyue-z.github.io/Portfolio-website/portfolio.html
+* Portfolio Link:https://mengyue-z.github.io/Portfolio/portfolio.html
 * GitHub repositories: https://github.com/mengyue-z/burger-logger
